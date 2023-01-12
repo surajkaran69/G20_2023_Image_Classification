@@ -35,6 +35,7 @@ Leaders of their respective countries :-
 ![image](https://user-images.githubusercontent.com/110095400/211982262-67b408e4-35cb-4356-8ea0-27fefd41fc9c.png)
 
 11.Canada
+
 ![image](https://user-images.githubusercontent.com/110095400/211982384-96e10f2c-6a16-454f-b61c-8b8d5ddbcaa6.png)
 
 12.European Union
