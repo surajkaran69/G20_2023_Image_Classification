@@ -1,5 +1,0 @@
-matplotlib
-numpy
-opencv_contrib_python
-Pillow
-tensorflow
