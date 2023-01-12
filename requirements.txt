@@ -1,6 +1,5 @@
-Flask==2.2.2
-matplotlib==3.6.3
-numpy==1.24.1
-opencv_contrib_python==4.7.0.68
-Pillow==9.4.0
+matplotlib
+numpy
+opencv_contrib_python
+Pillow
 tensorflow
