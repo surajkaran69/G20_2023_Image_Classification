@@ -32,5 +32,36 @@ Leaders of their respective countries :-
 ![image](https://user-images.githubusercontent.com/110095400/211982012-ce5901ac-1fb0-4a93-a6cb-0a37bd5ef0f6.png)
 
 10.The Kingdom of Saudi Arabia
-![image](https://user-images.githubusercontent.com/110095400/211982141-dccfba37-2918-42e7-a7e1-aedd3dcb5987.png)
+![image](https://user-images.githubusercontent.com/110095400/211982262-67b408e4-35cb-4356-8ea0-27fefd41fc9c.png)
 
+11.Canada
+![image](https://user-images.githubusercontent.com/110095400/211982384-96e10f2c-6a16-454f-b61c-8b8d5ddbcaa6.png)
+
+12.European Union
+![image](https://user-images.githubusercontent.com/110095400/211982490-f5e6f5b9-9905-4c31-b0da-1cf4efa24873.png)
+
+13.The Republic of Italy
+![image](https://user-images.githubusercontent.com/110095400/211982619-93b9a4ee-8440-4526-9830-808ed3122131.png)
+
+14.The Republic of Indonesia
+![image](https://user-images.githubusercontent.com/110095400/211982746-fcff442a-13b2-46b4-98a9-62532233c114.png)
+
+15.Federative Republic of Brazil
+![image](https://user-images.githubusercontent.com/110095400/211982895-7369ca40-714c-45f7-b70d-d8ee1b63ed94.png)
+
+16.United Mexican States
+![image](https://user-images.githubusercontent.com/110095400/211983040-ea979e23-9aa3-40f1-96e7-1ba66480350a.png)
+
+17.The Republic of South Africa
+![image](https://user-images.githubusercontent.com/110095400/211983153-81af1d01-7a43-4185-86bc-1fe2ea613471.png)
+
+18.The Republic of Turkey
+![image](https://user-images.githubusercontent.com/110095400/211983300-909e40c7-af01-4208-9d90-f16fe77c95be.png)
+
+19.The Commonwealth of Australia
+![image](https://user-images.githubusercontent.com/110095400/211983471-db9b3fe6-c06b-442f-aa63-3a1dad40dfcf.png)
+
+20.Argentine Republic República Argentina
+![image](https://user-images.githubusercontent.com/110095400/211983567-24d2648f-032a-4e11-a505-a7feea579c12.png)
+
+These are the leaders of their respective countries
